@@ -14,6 +14,7 @@ const nodeSize = {
 export default function App() {
   const [familyChart, setFamilyChart] = useState({});
 
+
   const getChildrenList = (children) => {
     let childrenList = [];
     if ((children || []).length > 0) {
@@ -71,6 +72,8 @@ export default function App() {
     return childrenList.length > 0 ? childrenList : "";
   };
   useEffect(() => {
+    alert("अधिक पाहण्यासाठी राखाडी वर्तुळावर क्लिक करा")
+
     const getDetailsOverAPI = async () => {
       // const response = await axios
       //   .get(
@@ -154,7 +157,7 @@ export default function App() {
           separation={separation}
           nodeSize={nodeSize}
           zoomable={true}
-          translate={{x:window.screen.width/2, y:50}}
+          translate={{ x: window.screen.width / 2, y: 50 }}
         />
       </div>
     </div>

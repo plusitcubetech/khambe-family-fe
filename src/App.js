@@ -14,7 +14,6 @@ const nodeSize = {
 export default function App() {
   const [familyChart, setFamilyChart] = useState({});
 
-
   const getChildrenList = (children) => {
     let childrenList = [];
     if ((children || []).length > 0) {
@@ -72,10 +71,16 @@ export default function App() {
     return childrenList.length > 0 ? childrenList : "";
   };
   useEffect(() => {
-
-    alert("अधिक पाहण्यासाठी राखाडी वर्तुळावर क्लिक करा.")
-    alert("सर्व दृश्यासाठी झूम इन किंवा आउट करा.")
-    alert("काही प्रश्न असल्यास WhatsApp वर संपर्क करा ,सुमित खांबे : 8286544342 / ८२८६५४४३४२")
+    alert("खांबे परिवारात आपले स्वागत आहे");
+    alert("सर्व दृश्यासाठी झूम इन किंवा झूम आउट करा.");
+    alert("चांगल्या अनुभवासाठी संगणक वापरा किंवा तुमचा मोबाईल आडवा फिरवा.");
+    alert(
+      "काही प्रश्न असल्यास WhatsApp वर संपर्क करा ,सुमित खांबे : 8286544342"
+    );
+    alert("धन्यवाद!!!.");
+    setTimeout(() => {
+      alert("अधिक पाहण्यासाठी राखाडी वर्तुळावर क्लिक करा.");
+    }, 5000);
 
     const getDetailsOverAPI = async () => {
       // const response = await axios
@@ -153,6 +158,7 @@ export default function App() {
       <div id="treeWrapper" style={{ width: "100%", height: "100%" }}>
         <Tree
           initialDepth={1}
+          zoom={0.8}
           collapsible={true}
           data={familyChart}
           orientation={"vertical"}

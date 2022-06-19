@@ -83,22 +83,22 @@ export default function App() {
     }, 5000);
 
     const getDetailsOverAPI = async () => {
-      const response = await axios
-        .get(
-          `http://localhost:8000/members/${
-            window.location.href.split("/")[127] || 127
-          }`,
-          {
-            headers: {
-              Authorization:
-                "Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoxLCJtb2JpbGVObyI6IjgyODY1NDQzNDIiLCJpZCI6MSwiZW1haWwiOiJraGFtYmVzdW1pdEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6InN1bWl0Iiwic3ViIjoic3VtaXQiLCJpc3MiOiJraGFtYmUiLCJqdGkiOiIxIiwiaWF0IjoxNjQ2MzkwNjMyLCJleHAiOjE2NTkzNTA2MzJ9.qN81B-jA3ELRPQzFzIYWVkW7KZshxmv_SAgxr06gYnQ",
-            },
-          }
-        )
-        .then((res) => res.data)
-        .catch((error) => error.data);
+      // const response = await axios
+      //   .get(
+      //     `http://localhost:8000/members/${
+      //       window.location.href.split("/")[127] || 127
+      //     }`,
+      //     {
+      //       headers: {
+      //         Authorization:
+      //           "Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoxLCJtb2JpbGVObyI6IjgyODY1NDQzNDIiLCJpZCI6MSwiZW1haWwiOiJraGFtYmVzdW1pdEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6InN1bWl0Iiwic3ViIjoic3VtaXQiLCJpc3MiOiJraGFtYmUiLCJqdGkiOiIxIiwiaWF0IjoxNjQ2MzkwNjMyLCJleHAiOjE2NTkzNTA2MzJ9.qN81B-jA3ELRPQzFzIYWVkW7KZshxmv_SAgxr06gYnQ",
+      //       },
+      //     }
+      //   )
+      //   .then((res) => res.data)
+      //   .catch((error) => error.data);
 
-      // const response = khambeData;
+      const response = khambeData;
 
       let Family = response.data;
       let newFamilyChart = {};

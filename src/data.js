@@ -47,7 +47,7 @@ export const data = {
                 children: [
                   {
                     id: 11,
-                    firstName: "सौ.भीकी",
+                    firstName: "भीकी",
                     middleName: "महादेव ",
                     lastName: "खांबे",
                     gender: "Female",
@@ -118,7 +118,7 @@ export const data = {
                   },
                   {
                     id: 13,
-                    firstName: "सौ.फटी ",
+                    firstName: "फटी ",
                     middleName: "महादेव ",
                     lastName: "खांबे",
                     gender: "Female",
@@ -189,7 +189,7 @@ export const data = {
                   },
                   {
                     id: 15,
-                    firstName: "सौ.सुमन",
+                    firstName: "सुमन",
                     middleName: "महादेव ",
                     lastName: "खांबे",
                     gender: "Female",
@@ -399,7 +399,7 @@ export const data = {
                       },
                       {
                         id: 46,
-                        firstName: "सौ.मनीषा",
+                        firstName: "मनीषा",
                         middleName: "रमाकांत",
                         lastName: "खांबे",
                         gender: "Female",
@@ -542,7 +542,7 @@ export const data = {
                     children: [
                       {
                         id: 44,
-                        firstName: "सौ.दिपाली",
+                        firstName: "दिपाली",
                         middleName: "सुरेश",
                         lastName: "खांबे",
                         gender: "Female",
@@ -613,7 +613,7 @@ export const data = {
                       },
                       {
                         id: 48,
-                        firstName: "सौ.प्रियंका",
+                        firstName: "प्रियंका",
                         middleName: "सुरेश",
                         lastName: "खांबे",
                         gender: "Female",
@@ -1061,7 +1061,7 @@ export const data = {
                 children: [
                   {
                     id: 23,
-                    firstName: "सौ.साखरी",
+                    firstName: "साखरी",
                     middleName: "तानाजी",
                     lastName: "खांबे",
                     gender: "Female",
@@ -1303,7 +1303,7 @@ export const data = {
                       },
                       {
                         id: 55,
-                        firstName: "सौ.गुलाब",
+                        firstName: "गुलाब",
                         middleName: "भिकाजी ",
                         lastName: "खांबे",
                         gender: "Female",
@@ -1374,7 +1374,7 @@ export const data = {
                       },
                       {
                         id: 57,
-                        firstName: "सौ.कला",
+                        firstName: "कला",
                         middleName: "भिकाजी ",
                         lastName: "खांबे",
                         gender: "Female",
@@ -1517,7 +1517,7 @@ export const data = {
                     children: [
                       {
                         id: 59,
-                        firstName: "सौ.शैला",
+                        firstName: "शैला",
                         middleName: "तुकाराम",
                         lastName: "खांबे",
                         gender: "Female",
@@ -1588,7 +1588,7 @@ export const data = {
                       },
                       {
                         id: 61,
-                        firstName: "सौ.वैशाली",
+                        firstName: "वैशाली",
                         middleName: "तुकाराम",
                         lastName: "खांबे",
                         gender: "Female",
@@ -1659,7 +1659,7 @@ export const data = {
                       },
                       {
                         id: 63,
-                        firstName: "सौ.मीना",
+                        firstName: "मीना",
                         middleName: "तुकाराम",
                         lastName: "खांबे",
                         gender: "Female",
@@ -2030,7 +2030,7 @@ export const data = {
                       },
                       {
                         id: 69,
-                        firstName: "सौ.रजनी",
+                        firstName: "रजनी",
                         middleName: "जयराम ",
                         lastName: "खांबे",
                         gender: "Female",
@@ -2681,7 +2681,7 @@ export const data = {
                     children: [
                       {
                         id: 71,
-                        firstName: "सौ.रुपाली",
+                        firstName: "रुपाली",
                         middleName: "दत्ताराम ",
                         lastName: "खांबे",
                         gender: "Female",
@@ -2752,7 +2752,7 @@ export const data = {
                       },
                       {
                         id: 73,
-                        firstName: "सौ.श्वेता",
+                        firstName: "श्वेता",
                         middleName: "दत्ताराम ",
                         lastName: "खांबे",
                         gender: "Female",
@@ -2823,7 +2823,7 @@ export const data = {
                       },
                       {
                         id: 75,
-                        firstName: "सौ.वैशाली",
+                        firstName: "वैशाली",
                         middleName: "दत्ताराम ",
                         lastName: "खांबे",
                         gender: "Female",
@@ -2955,7 +2955,7 @@ export const data = {
                   },
                   {
                     id: 36,
-                    firstName: "सौ.सुशीला",
+                    firstName: "सुशीला",
                     middleName: "सदाशिव",
                     lastName: "खांबे",
                     gender: "Female",
@@ -3026,7 +3026,7 @@ export const data = {
                   },
                   {
                     id: 38,
-                    firstName: "सौ.ठकी",
+                    firstName: "ठकी",
                     middleName: "सदाशिव",
                     lastName: "खांबे",
                     gender: "Female",
@@ -3097,7 +3097,7 @@ export const data = {
                   },
                   {
                     id: 40,
-                    firstName: "सौ.आशा",
+                    firstName: "आशा",
                     middleName: "सदाशिव",
                     lastName: "खांबे",
                     gender: "Female",
@@ -3539,7 +3539,7 @@ export const data = {
                       },
                       {
                         id: 112,
-                        firstName: "सौ.मनिशा",
+                        firstName: "मनिशा",
                         middleName: "गुणाजी",
                         lastName: "खांबे",
                         gender: "Female",
@@ -3602,7 +3602,7 @@ export const data = {
                       },
                       {
                         id: 114,
-                        firstName: "सौ. रेश्मा",
+                        firstName: "रेश्मा",
                         middleName: "गुणाजी",
                         lastName: "खांबे",
                         gender: "Female",
@@ -3726,7 +3726,7 @@ export const data = {
                   },
                   {
                     id: 100,
-                    firstName: "सौ.काशी",
+                    firstName: "काशी",
                     middleName: "सखाराम",
                     lastName: "खांबे",
                     gender: "Female",

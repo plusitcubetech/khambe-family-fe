@@ -154,6 +154,7 @@ export default function App() {
           separation={separation}
           nodeSize={nodeSize}
           zoomable={true}
+          translate={{x:window.screen.width/2, y:50}}
         />
       </div>
     </div>

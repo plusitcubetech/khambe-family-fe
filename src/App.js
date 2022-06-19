@@ -72,7 +72,10 @@ export default function App() {
     return childrenList.length > 0 ? childrenList : "";
   };
   useEffect(() => {
-    alert("अधिक पाहण्यासाठी राखाडी वर्तुळावर क्लिक करा")
+
+    alert("अधिक पाहण्यासाठी राखाडी वर्तुळावर क्लिक करा.")
+    alert("सर्व दृश्यासाठी झूम इन किंवा आउट करा.")
+    alert("काही प्रश्न असल्यास WhatsApp वर संपर्क करा ,सुमित खांबे : 8286544342 / ८२८६५४४३४२")
 
     const getDetailsOverAPI = async () => {
       // const response = await axios

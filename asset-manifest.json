@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/khambe-family-fe/static/css/main.0df75104.chunk.css",
-    "main.js": "/khambe-family-fe/static/js/main.52cbda92.chunk.js",
-    "main.js.map": "/khambe-family-fe/static/js/main.52cbda92.chunk.js.map",
+    "main.js": "/khambe-family-fe/static/js/main.13a774e1.chunk.js",
+    "main.js.map": "/khambe-family-fe/static/js/main.13a774e1.chunk.js.map",
     "runtime-main.js": "/khambe-family-fe/static/js/runtime-main.7317c82a.js",
     "runtime-main.js.map": "/khambe-family-fe/static/js/runtime-main.7317c82a.js.map",
-    "static/js/2.4c9c5ac4.chunk.js": "/khambe-family-fe/static/js/2.4c9c5ac4.chunk.js",
-    "static/js/2.4c9c5ac4.chunk.js.map": "/khambe-family-fe/static/js/2.4c9c5ac4.chunk.js.map",
+    "static/js/2.04da4299.chunk.js": "/khambe-family-fe/static/js/2.04da4299.chunk.js",
+    "static/js/2.04da4299.chunk.js.map": "/khambe-family-fe/static/js/2.04da4299.chunk.js.map",
     "index.html": "/khambe-family-fe/index.html",
     "static/css/main.0df75104.chunk.css.map": "/khambe-family-fe/static/css/main.0df75104.chunk.css.map",
-    "static/js/2.4c9c5ac4.chunk.js.LICENSE.txt": "/khambe-family-fe/static/js/2.4c9c5ac4.chunk.js.LICENSE.txt"
+    "static/js/2.04da4299.chunk.js.LICENSE.txt": "/khambe-family-fe/static/js/2.04da4299.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7317c82a.js",
-    "static/js/2.4c9c5ac4.chunk.js",
+    "static/js/2.04da4299.chunk.js",
     "static/css/main.0df75104.chunk.css",
-    "static/js/main.52cbda92.chunk.js"
+    "static/js/main.13a774e1.chunk.js"
   ]
 }

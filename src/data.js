@@ -1941,7 +1941,7 @@ export const data = {
                         children: [
                           {
                             id: 129,
-                            firstName: "कुमारी",
+                            firstName: "अन्विक्षा",
                             middleName: "आशिष",
                             lastName: "खांबे",
                             gender: "Female",
